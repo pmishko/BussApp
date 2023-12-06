@@ -17,7 +17,7 @@ import java.io.IOException;
 //import java.util.stream.Collectors;
 
 
-//    C:\Users\Petar\Desktop\Posao\gtfs
+
 
 public class BussApp {
     public static void main(String[] args) {
